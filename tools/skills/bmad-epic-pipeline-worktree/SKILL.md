@@ -26,7 +26,7 @@ Deliver all incomplete stories in one epic through the BMAD story pipeline workt
 4. For each story, invoke `bmad-story-pipeline-worktree {STORY_ID}` sequentially.
 5. Stop immediately if any story fails, and preserve that story worktree state for manual handling.
 6. After all stories succeed, ensure story artifacts and epic status are synchronized and report epic completion.
-7. Invoke `bmad-retrospective {EPIC_ID}` to close the epic cycle, extract lessons learned, and update the roadmap with any discovered technical debt.
+7. Invoke `bmad-bmm-retrospective-lite {EPIC_ID}` to close the epic cycle, extract lessons learned, and update the roadmap with any discovered technical debt.
 
 ## Behavior rules
 

@@ -32,8 +32,8 @@ It preserves the same safety model of isolated worktrees and sequential story me
 6. After a successful story delivery, continue immediately to the next story without asking the user to re-confirm.
 7. Stop only if a hard blocker is reached.
 8. After all stories succeed, ensure story artifacts and epic status are synchronized and report epic completion.
-9. Invoke `bmad-retrospective {EPIC_ID}` to close the epic cycle, extract lessons learned, and update the roadmap with any discovered technical debt.
-9. Invoke `bmad-retrospective {EPIC_ID}` to close the epic cycle, extract lessons learned, and update the roadmap with any discovered technical debt.
+9. Invoke `bmad-bmm-retrospective-lite {EPIC_ID}` to close the epic cycle, extract lessons learned, and update the roadmap with any discovered technical debt.
+9. Invoke `bmad-bmm-retrospective-lite {EPIC_ID}` to close the epic cycle, extract lessons learned, and update the roadmap with any discovered technical debt.
 
 ## Hard Blockers
 
