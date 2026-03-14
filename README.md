@@ -1,6 +1,6 @@
 # Install BMAD Auto Skill
 
-A specialized skill for **Gemini CLI** designed to automate the installation of Terryso-style BMAD pipeline skills into your project.
+A specialized skill for **Codex CLI** and **Gemini CLI** designed to automate the installation of Terryso-style BMAD pipeline skills into your project. Dual-Support, Self-Contained, dan Project-Oriented.
 
 ## 🚀 Overview
 
