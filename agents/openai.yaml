@@ -1,0 +1,4 @@
+interface:
+  display_name: "Install BMAD Auto Skill"
+  short_description: "Install Terryso-style BMAD pipeline skills (story-pipeline, etc.) to the project"
+  default_prompt: "Use @install-bmad-auto-skill to verify the BMAD/BMM/TEA core and bootstrap skills in the current project, then install the four Terryso BMAD pipeline skills (story-pipeline, worktree, epic-pipeline-worktree, and autonomous-epic-worktree) locally for the project. This skill is compatible with both Gemini CLI and Codex CLI."

@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Gemini CLI / Agent artifacts
+.gemini/
+.agents/
+walkthrough.md
+task.md
+implementation_plan.md
+
+# Node/JS (if any tools produce them)
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Git
+.git/
